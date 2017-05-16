@@ -1,0 +1,19 @@
+.media-object {
+  max-width: 200px;
+}
+
+[ng-click] {
+  cursor: pointer;
+}
+
+.search-form {
+  margin-top: 4px;
+}
+
+main.container {
+  margin-bottom: 4em;
+}
+
+.hayden {
+  border: 1px solid red;
+}
